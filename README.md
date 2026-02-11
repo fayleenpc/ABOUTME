@@ -2,8 +2,8 @@
 
 
 # Fajar Ramdani
-Backend & AI Systems Engineer  
-Golang | Distributed Systems | Computer Vision Integration
+Backend Specialist & AI Systems Engineer  
+Golang | Distributed Systems | Computer Vision Integration | Apps Stack to solve daily problems.
 
 ---
 
